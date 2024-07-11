@@ -33,10 +33,10 @@ Here is a screenshot of the JIRA Sprint:<br>
 <img src="Capture.JPG" alt="JIRA Sprint Complete" width="600" height="300">
 
 Here is a screenshot of the validator prompting the user to provide a correct email format:<br>
-<img src="Capture.JPG" alt="JIRA Sprint Complete" width="600" height="300">
+<img src="Capture 2.JPG" alt="Validator.js" width="600" height="300">
 
 Here is a screenshot of the DatePicker:<br>
-<img src="Capture.JPG" alt="JIRA Sprint Complete" width="600" height="300">
+<img src="Capture 3.JPG" alt="Datepicket.js" width="600" height="300">
 
 
 
