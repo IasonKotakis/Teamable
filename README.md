@@ -28,8 +28,18 @@ Initially when I've created the core concept of the website based on the JIRA ta
 
 This is only the first implementation and the notion behind it was to allow us to work with open source libraries that we could implement in the project with the power of npm. We wanted to go through that route as I would like to further enrich the website by utilizing other libraries as well as Vue.js in the future.
 
-## Screenshots (if applicable)
-![JIRA Sprint](path/to/image.png)
+## Screenshots
+Here is a screenshot of the JIRA Sprint:<br>
+<img src="Capture.JPG" alt="JIRA Sprint Complete" width="600" height="300">
+
+Here is a screenshot of the validator prompting the user to provide a correct email format:<br>
+<img src="Capture.JPG" alt="JIRA Sprint Complete" width="600" height="300">
+
+Here is a screenshot of the DatePicker:<br>
+<img src="Capture.JPG" alt="JIRA Sprint Complete" width="600" height="300">
+
+
+
 
 
 ## Acknowledgements
