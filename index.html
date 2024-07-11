@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Teamable</title>
+        <link rel="stylesheet" href="style.css"/>
+        <script src="app.js"></script>
+        <meta charset="utf-8"/>
+        <script src="node_modules/validator/validator.min.js"></script>
+        <link rel="stylesheet" href="node_modules/Datepicker.js/dist/css/datepicker.material.css"/>
+        <script src="node_modules/Datepicker.js/dist/datepicker.js"></script>
+    </head>
+
+    <body>
+        <div id="display-view">
+            <h1>User profile</h1>
+            <img src="C:\Users\jason\Desktop\Root\Personal Folder\Iason Kotakis\Learning\IT Beginner\TechWorldwNana\Teamable_app\Images\dog profile.jpeg">
+
+            <span>Name: </span><b id="name">Jason Kotakis</b>
+            <hr>
+
+            <span>Email: </span><b id="email">Jason.Kotakis@example.com</b>
+            <hr>
+
+            <span>Interests: </span><b id="interests">Coding</b>
+            <hr>
+
+            <button onclick="handleEditProfile()">Edit Profile</button>
+        </div>
+
+        <div id="edit-view">
+            <h1>User profile</h1>
+            <img src="C:\Users\jason\Desktop\Root\Personal Folder\Iason Kotakis\Learning\IT Beginner\TechWorldwNana\Teamable_app\Images\dog profile.jpeg">
+
+            <span>Name: </span>
+            <input type="text" id="input-name" placeholder="Jason Kotakis"/>
+            <hr>
+
+            <span>Email: </span>
+            <input type="text" id="input-email" placeholder="Jason.Kotakis@example.com"/>
+            <hr>
+
+            <span>Interests: </span>
+            <input type="text" id="input-interests" placeholder="Coding"/>
+            <hr>
+
+            <span>Birthday Date: </span>
+            <input type="text" id="birthdate" placeholder="Birthday"/>
+            <hr>
+
+            <button onclick="handleUpdateProfile()">Update Profile</button>
+        </div>
+    </body>
+
+
+</html>
